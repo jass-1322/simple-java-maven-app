@@ -3,6 +3,7 @@ package com.mycompany.app;
 /**
  * Hello world!
  */
+// adding comment to trigger the build in jenkins
 public class App {
 
     private static final String MESSAGE = "Hello World!";
